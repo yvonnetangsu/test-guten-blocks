@@ -1,0 +1,16 @@
+/**
+ * #.# Editor Styles
+ *
+ * CSS for just Backend enqueued after style.scss
+ * which makes it higher in priority.
+ */
+
+.wp-block-cgb-block-nested-block {
+  background: #fff;
+  border: 1px solid #c4c4c4;
+  border-top: 5px solid $red;
+  color: #000;
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 2rem;
+}

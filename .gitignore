@@ -9,6 +9,7 @@
 /wp-admin
 /wp-includes
 !/wp-content/themes/
+/wp-content/uploads/
 /wp-content/plugins/akismet
 /wp-content/plugins/hello.php
 /wp-content/plugins/index.php
@@ -22,3 +23,5 @@ wp-migrate-db-pro-compatibility.php
 
 # IDE's
 .idea/
+wp-content/plugins/node_modules
+wp-content/plugins/well-block/node_modules

@@ -1,0 +1,26 @@
+/**
+ * #.# Styles
+ *
+ * CSS for both Frontend+Backend.
+ */
+
+.wp-block-cgb-block-nested-block  {
+  background: #fff;
+  border: 1px solid #c4c4c4;
+  border-top: 5px solid $red;
+  color: #000;
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 3rem 2.4rem;
+  box-shadow: 0 3px 6px rgba(0,0,0,.13), 0 3px 6px rgba(0,0,0,.1);
+
+  .wp-block-cgb-block-icon-block {
+    text-align: center;
+    font-size: 3em;
+  }
+
+  .well-title {
+    margin-top: 3rem;
+    font-size: 2.4rem;
+  }
+}
